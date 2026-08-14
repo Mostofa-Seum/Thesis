@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.12)  14 AUG 2026 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.12)  14 AUG 2026 21:47
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/mursa/Desktop/Desktop/Thesis/sn-article.tex
-(c:/Users/mursa/Desktop/Desktop/Thesis/sn-article.tex
+**./sn-article.tex
+(sn-article.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (sn-jnl.cls
-Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Journal articles
+Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Jour
+nal articles
 (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
@@ -20,7 +20,8 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count276
@@ -46,14 +47,18 @@ LaTeX Info: Redefining \cal on input line 153.
 LaTeX Info: Redefining \mit on input line 154.
 LaTeX Info: Redefining \textsubscript on input line 212.
 \columnhsize=\skip52
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count284
@@ -68,7 +73,8 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen157
 \Gm@layoutvoffset=\dimen158
 \Gm@dimlist=\toks18
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 \artcatbox=\box53
 \aucount=\count287
 \corraucount=\count288
@@ -80,7 +86,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \PacsTmpCnt=\count294
 \FMremarkdim=\dimen159
 \fmremarkbox=\box54
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/sttools\cuted.sty
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/sttools\cuted.sty
 Package: cuted 2025/12/15 v2.10 Mixing onecolumn and twocolumn modes (ST)
 \At@ViperColsBreak=\toks19
 \preCutedStrip=\toks20
@@ -122,19 +128,26 @@ Package: cuted 2025/12/15 v2.10 Mixing onecolumn and twocolumn modes (ST)
 \temptbox=\box67
 \tempdime=\dimen178
 \tabhtdime=\dimen179
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2026-05-17 v2.16e rotated objects in LaTeX
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen180
@@ -147,49 +160,74 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip56
 \rot@float@box=\box68
 \rot@mess@toks=\toks22
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threeparttable.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
+ttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box69
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count297
 \c@@ppsavesec=\count298
 \c@@ppsaveapp=\count299
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+))
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count300
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count301
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
 )
 \@linkdim=\dimen182
 \Hy@linkcounter=\count302
@@ -215,16 +253,21 @@ Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4466.
 \c@Hy@tempcnt=\count305
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4805.
 \XeTeXLinkMargin=\dimen183
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count306
 \Field@Width=\dimen184
@@ -241,16 +284,22 @@ Package hyperref Info: PDF/A mode OFF on input line 6121.
 \c@Hfootnote=\count309
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2026-06-17 v7.01r Hyperref driver for pdfTeX
 \Fld@listcount=\count310
 \c@bookmark@seq@number=\count311
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
 )
 \Hy@SectionHShift=\skip57
 )
@@ -258,8 +307,10 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 1471.
 Package hyperref Info: Option `breaklinks' set `true' on input line 1471.
 Package hyperref Info: Option `plainpages' set `false' on input line 1471.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 1471.
-Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 1471.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 147
+1.
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen186
 \WF@size=\dimen187
 \c@WF@wrappedlines=\count312
@@ -271,7 +322,8 @@ Package: wrapfig 2003/01/31  v 3.6
 \@authorfigbox=\box71
 \@authorfigboxdim=\skip58
 \biofigadjskip=\skip59
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks24
 \thm@bodyfont=\toks25
@@ -282,159 +334,293 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip61
 \thm@headsep=\skip62
 \dth@everypar=\toks29
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
-LaTeX Encoding Info:    Redeclaring text command \capitalcedilla (encoding TS1) on input line 49.
-LaTeX Encoding Info:    Redeclaring text command \capitalogonek (encoding TS1) on input line 52.
-LaTeX Encoding Info:    Redeclaring text command \capitalgrave (encoding TS1) on input line 55.
-LaTeX Encoding Info:    Redeclaring text command \capitalacute (encoding TS1) on input line 56.
-LaTeX Encoding Info:    Redeclaring text command \capitalcircumflex (encoding TS1) on input line 57.
-LaTeX Encoding Info:    Redeclaring text command \capitaltilde (encoding TS1) on input line 58.
-LaTeX Encoding Info:    Redeclaring text command \capitaldieresis (encoding TS1) on input line 59.
-LaTeX Encoding Info:    Redeclaring text command \capitalhungarumlaut (encoding TS1) on input line 60.
-LaTeX Encoding Info:    Redeclaring text command \capitalring (encoding TS1) on input line 61.
-LaTeX Encoding Info:    Redeclaring text command \capitalcaron (encoding TS1) on input line 62.
-LaTeX Encoding Info:    Redeclaring text command \capitalbreve (encoding TS1) on input line 63.
-LaTeX Encoding Info:    Redeclaring text command \capitalmacron (encoding TS1) on input line 64.
-LaTeX Encoding Info:    Redeclaring text command \capitaldotaccent (encoding TS1) on input line 65.
-LaTeX Encoding Info:    Redeclaring text command \t (encoding TS1) on input line 66.
-LaTeX Encoding Info:    Redeclaring text command \capitaltie (encoding TS1) on input line 67.
-LaTeX Encoding Info:    Redeclaring text command \newtie (encoding TS1) on input line 68.
-LaTeX Encoding Info:    Redeclaring text command \capitalnewtie (encoding TS1) on input line 69.
-LaTeX Encoding Info:    Redeclaring text symbol \textcapitalcompwordmark (encoding TS1) on input line 70.
-LaTeX Encoding Info:    Redeclaring text symbol \textascendercompwordmark (encoding TS1) on input line 71.
-LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightbase (encoding TS1) on input line 72.
-LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightdblbase (encoding TS1) on input line 73.
-LaTeX Encoding Info:    Redeclaring text symbol \texttwelveudash (encoding TS1) on input line 74.
-LaTeX Encoding Info:    Redeclaring text symbol \textthreequartersemdash (encoding TS1) on input line 75.
-LaTeX Encoding Info:    Redeclaring text symbol \textleftarrow (encoding TS1) on input line 76.
-LaTeX Encoding Info:    Redeclaring text symbol \textrightarrow (encoding TS1) on input line 77.
-LaTeX Encoding Info:    Redeclaring text symbol \textblank (encoding TS1) on input line 78.
-LaTeX Encoding Info:    Redeclaring text symbol \textdollar (encoding TS1) on input line 79.
-LaTeX Encoding Info:    Redeclaring text symbol \textquotesingle (encoding TS1) on input line 80.
-LaTeX Encoding Info:    Redeclaring text command \textasteriskcentered (encoding TS1) on input line 81.
-LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphen (encoding TS1) on input line 92.
-LaTeX Encoding Info:    Redeclaring text symbol \textfractionsolidus (encoding TS1) on input line 93.
-LaTeX Encoding Info:    Redeclaring text symbol \textzerooldstyle (encoding TS1) on input line 94.
-LaTeX Encoding Info:    Redeclaring text symbol \textoneoldstyle (encoding TS1) on input line 95.
-LaTeX Encoding Info:    Redeclaring text symbol \texttwooldstyle (encoding TS1) on input line 96.
-LaTeX Encoding Info:    Redeclaring text symbol \textthreeoldstyle (encoding TS1) on input line 97.
-LaTeX Encoding Info:    Redeclaring text symbol \textfouroldstyle (encoding TS1) on input line 98.
-LaTeX Encoding Info:    Redeclaring text symbol \textfiveoldstyle (encoding TS1) on input line 99.
-LaTeX Encoding Info:    Redeclaring text symbol \textsixoldstyle (encoding TS1) on input line 100.
-LaTeX Encoding Info:    Redeclaring text symbol \textsevenoldstyle (encoding TS1) on input line 101.
-LaTeX Encoding Info:    Redeclaring text symbol \texteightoldstyle (encoding TS1) on input line 102.
-LaTeX Encoding Info:    Redeclaring text symbol \textnineoldstyle (encoding TS1) on input line 103.
-LaTeX Encoding Info:    Redeclaring text symbol \textlangle (encoding TS1) on input line 104.
-LaTeX Encoding Info:    Redeclaring text symbol \textminus (encoding TS1) on input line 105.
-LaTeX Encoding Info:    Redeclaring text symbol \textrangle (encoding TS1) on input line 106.
-LaTeX Encoding Info:    Redeclaring text symbol \textmho (encoding TS1) on input line 107.
-LaTeX Encoding Info:    Redeclaring text symbol \textbigcircle (encoding TS1) on input line 108.
-LaTeX Encoding Info:    Redeclaring text command \textcircled (encoding TS1) on input line 109.
-LaTeX Encoding Info:    Redeclaring text symbol \textohm (encoding TS1) on input line 115.
-LaTeX Encoding Info:    Redeclaring text symbol \textlbrackdbl (encoding TS1) on input line 116.
-LaTeX Encoding Info:    Redeclaring text symbol \textrbrackdbl (encoding TS1) on input line 117.
-LaTeX Encoding Info:    Redeclaring text symbol \textuparrow (encoding TS1) on input line 118.
-LaTeX Encoding Info:    Redeclaring text symbol \textdownarrow (encoding TS1) on input line 119.
-LaTeX Encoding Info:    Redeclaring text symbol \textasciigrave (encoding TS1) on input line 120.
-LaTeX Encoding Info:    Redeclaring text symbol \textborn (encoding TS1) on input line 121.
-LaTeX Encoding Info:    Redeclaring text symbol \textdivorced (encoding TS1) on input line 122.
-LaTeX Encoding Info:    Redeclaring text symbol \textdied (encoding TS1) on input line 123.
-LaTeX Encoding Info:    Redeclaring text symbol \textleaf (encoding TS1) on input line 124.
-LaTeX Encoding Info:    Redeclaring text symbol \textmarried (encoding TS1) on input line 125.
-LaTeX Encoding Info:    Redeclaring text symbol \textmusicalnote (encoding TS1) on input line 126.
-LaTeX Encoding Info:    Redeclaring text symbol \texttildelow (encoding TS1) on input line 127.
-LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphenchar (encoding TS1) on input line 128.
-LaTeX Encoding Info:    Redeclaring text symbol \textasciibreve (encoding TS1) on input line 129.
-LaTeX Encoding Info:    Redeclaring text symbol \textasciicaron (encoding TS1) on input line 130.
-LaTeX Encoding Info:    Redeclaring text symbol \textacutedbl (encoding TS1) on input line 131.
-LaTeX Encoding Info:    Redeclaring text symbol \textgravedbl (encoding TS1) on input line 132.
-LaTeX Encoding Info:    Redeclaring text symbol \textdagger (encoding TS1) on input line 133.
-LaTeX Encoding Info:    Redeclaring text symbol \textdaggerdbl (encoding TS1) on input line 134.
-LaTeX Encoding Info:    Redeclaring text symbol \textbardbl (encoding TS1) on input line 135.
-LaTeX Encoding Info:    Redeclaring text symbol \textperthousand (encoding TS1) on input line 136.
-LaTeX Encoding Info:    Redeclaring text symbol \textbullet (encoding TS1) on input line 137.
-LaTeX Encoding Info:    Redeclaring text symbol \textcelsius (encoding TS1) on input line 138.
-LaTeX Encoding Info:    Redeclaring text symbol \textdollaroldstyle (encoding TS1) on input line 139.
-LaTeX Encoding Info:    Redeclaring text symbol \textcentoldstyle (encoding TS1) on input line 140.
-LaTeX Encoding Info:    Redeclaring text symbol \textflorin (encoding TS1) on input line 141.
-LaTeX Encoding Info:    Redeclaring text symbol \textcolonmonetary (encoding TS1) on input line 142.
-LaTeX Encoding Info:    Redeclaring text symbol \textwon (encoding TS1) on input line 143.
-LaTeX Encoding Info:    Redeclaring text symbol \textnaira (encoding TS1) on input line 144.
-LaTeX Encoding Info:    Redeclaring text symbol \textguarani (encoding TS1) on input line 145.
-LaTeX Encoding Info:    Redeclaring text symbol \textpeso (encoding TS1) on input line 146.
-LaTeX Encoding Info:    Redeclaring text symbol \textlira (encoding TS1) on input line 147.
-LaTeX Encoding Info:    Redeclaring text symbol \textrecipe (encoding TS1) on input line 148.
-LaTeX Encoding Info:    Redeclaring text symbol \textinterrobang (encoding TS1) on input line 149.
-LaTeX Encoding Info:    Redeclaring text symbol \textinterrobangdown (encoding TS1) on input line 150.
-LaTeX Encoding Info:    Redeclaring text symbol \textdong (encoding TS1) on input line 151.
-LaTeX Encoding Info:    Redeclaring text symbol \texttrademark (encoding TS1) on input line 152.
-LaTeX Encoding Info:    Redeclaring text symbol \textpertenthousand (encoding TS1) on input line 153.
-LaTeX Encoding Info:    Redeclaring text symbol \textpilcrow (encoding TS1) on input line 154.
-LaTeX Encoding Info:    Redeclaring text symbol \textbaht (encoding TS1) on input line 155.
-LaTeX Encoding Info:    Redeclaring text symbol \textnumero (encoding TS1) on input line 156.
-LaTeX Encoding Info:    Redeclaring text symbol \textdiscount (encoding TS1) on input line 157.
-LaTeX Encoding Info:    Redeclaring text symbol \textestimated (encoding TS1) on input line 158.
-LaTeX Encoding Info:    Redeclaring text symbol \textopenbullet (encoding TS1) on input line 159.
-LaTeX Encoding Info:    Redeclaring text symbol \textservicemark (encoding TS1) on input line 160.
-LaTeX Encoding Info:    Redeclaring text symbol \textlquill (encoding TS1) on input line 161.
-LaTeX Encoding Info:    Redeclaring text symbol \textrquill (encoding TS1) on input line 162.
-LaTeX Encoding Info:    Redeclaring text symbol \textcent (encoding TS1) on input line 163.
-LaTeX Encoding Info:    Redeclaring text symbol \textsterling (encoding TS1) on input line 164.
-LaTeX Encoding Info:    Redeclaring text symbol \textcurrency (encoding TS1) on input line 165.
-LaTeX Encoding Info:    Redeclaring text symbol \textyen (encoding TS1) on input line 166.
-LaTeX Encoding Info:    Redeclaring text symbol \textbrokenbar (encoding TS1) on input line 167.
-LaTeX Encoding Info:    Redeclaring text symbol \textsection (encoding TS1) on input line 168.
-LaTeX Encoding Info:    Redeclaring text symbol \textasciidieresis (encoding TS1) on input line 169.
-LaTeX Encoding Info:    Redeclaring text symbol \textcopyright (encoding TS1) on input line 170.
-LaTeX Encoding Info:    Redeclaring text symbol \textordfeminine (encoding TS1) on input line 171.
-LaTeX Encoding Info:    Redeclaring text symbol \textcopyleft (encoding TS1) on input line 172.
-LaTeX Encoding Info:    Redeclaring text symbol \textlnot (encoding TS1) on input line 173.
-LaTeX Encoding Info:    Redeclaring text symbol \textcircledP (encoding TS1) on input line 174.
-LaTeX Encoding Info:    Redeclaring text symbol \textregistered (encoding TS1) on input line 175.
-LaTeX Encoding Info:    Redeclaring text symbol \textasciimacron (encoding TS1) on input line 176.
-LaTeX Encoding Info:    Redeclaring text symbol \textdegree (encoding TS1) on input line 177.
-LaTeX Encoding Info:    Redeclaring text symbol \textpm (encoding TS1) on input line 178.
-LaTeX Encoding Info:    Redeclaring text symbol \texttwosuperior (encoding TS1) on input line 179.
-LaTeX Encoding Info:    Redeclaring text symbol \textthreesuperior (encoding TS1) on input line 180.
-LaTeX Encoding Info:    Redeclaring text symbol \textasciiacute (encoding TS1) on input line 181.
-LaTeX Encoding Info:    Redeclaring text symbol \textmu (encoding TS1) on input line 182.
-LaTeX Encoding Info:    Redeclaring text symbol \textparagraph (encoding TS1) on input line 183.
-LaTeX Encoding Info:    Redeclaring text symbol \textperiodcentered (encoding TS1) on input line 184.
-LaTeX Encoding Info:    Redeclaring text symbol \textreferencemark (encoding TS1) on input line 185.
-LaTeX Encoding Info:    Redeclaring text symbol \textonesuperior (encoding TS1) on input line 186.
-LaTeX Encoding Info:    Redeclaring text symbol \textordmasculine (encoding TS1) on input line 187.
-LaTeX Encoding Info:    Redeclaring text symbol \textsurd (encoding TS1) on input line 188.
-LaTeX Encoding Info:    Redeclaring text symbol \textonequarter (encoding TS1) on input line 189.
-LaTeX Encoding Info:    Redeclaring text symbol \textonehalf (encoding TS1) on input line 190.
-LaTeX Encoding Info:    Redeclaring text symbol \textthreequarters (encoding TS1) on input line 191.
-LaTeX Encoding Info:    Redeclaring text symbol \texteuro (encoding TS1) on input line 192.
-LaTeX Encoding Info:    Redeclaring text symbol \texttimes (encoding TS1) on input line 193.
-LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input line 194.
-)) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+LaTeX Encoding Info:    Redeclaring text command \capitalcedilla (encoding TS1)
+ on input line 49.
+LaTeX Encoding Info:    Redeclaring text command \capitalogonek (encoding TS1) 
+on input line 52.
+LaTeX Encoding Info:    Redeclaring text command \capitalgrave (encoding TS1) o
+n input line 55.
+LaTeX Encoding Info:    Redeclaring text command \capitalacute (encoding TS1) o
+n input line 56.
+LaTeX Encoding Info:    Redeclaring text command \capitalcircumflex (encoding T
+S1) on input line 57.
+LaTeX Encoding Info:    Redeclaring text command \capitaltilde (encoding TS1) o
+n input line 58.
+LaTeX Encoding Info:    Redeclaring text command \capitaldieresis (encoding TS1
+) on input line 59.
+LaTeX Encoding Info:    Redeclaring text command \capitalhungarumlaut (encoding
+ TS1) on input line 60.
+LaTeX Encoding Info:    Redeclaring text command \capitalring (encoding TS1) on
+ input line 61.
+LaTeX Encoding Info:    Redeclaring text command \capitalcaron (encoding TS1) o
+n input line 62.
+LaTeX Encoding Info:    Redeclaring text command \capitalbreve (encoding TS1) o
+n input line 63.
+LaTeX Encoding Info:    Redeclaring text command \capitalmacron (encoding TS1) 
+on input line 64.
+LaTeX Encoding Info:    Redeclaring text command \capitaldotaccent (encoding TS
+1) on input line 65.
+LaTeX Encoding Info:    Redeclaring text command \t (encoding TS1) on input lin
+e 66.
+LaTeX Encoding Info:    Redeclaring text command \capitaltie (encoding TS1) on 
+input line 67.
+LaTeX Encoding Info:    Redeclaring text command \newtie (encoding TS1) on inpu
+t line 68.
+LaTeX Encoding Info:    Redeclaring text command \capitalnewtie (encoding TS1) 
+on input line 69.
+LaTeX Encoding Info:    Redeclaring text symbol \textcapitalcompwordmark (encod
+ing TS1) on input line 70.
+LaTeX Encoding Info:    Redeclaring text symbol \textascendercompwordmark (enco
+ding TS1) on input line 71.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightbase (encodin
+g TS1) on input line 72.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotestraightdblbase (enco
+ding TS1) on input line 73.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwelveudash (encoding TS1)
+ on input line 74.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequartersemdash (encod
+ing TS1) on input line 75.
+LaTeX Encoding Info:    Redeclaring text symbol \textleftarrow (encoding TS1) o
+n input line 76.
+LaTeX Encoding Info:    Redeclaring text symbol \textrightarrow (encoding TS1) 
+on input line 77.
+LaTeX Encoding Info:    Redeclaring text symbol \textblank (encoding TS1) on in
+put line 78.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollar (encoding TS1) on i
+nput line 79.
+LaTeX Encoding Info:    Redeclaring text symbol \textquotesingle (encoding TS1)
+ on input line 80.
+LaTeX Encoding Info:    Redeclaring text command \textasteriskcentered (encodin
+g TS1) on input line 81.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphen (encoding TS1) o
+n input line 92.
+LaTeX Encoding Info:    Redeclaring text symbol \textfractionsolidus (encoding 
+TS1) on input line 93.
+LaTeX Encoding Info:    Redeclaring text symbol \textzerooldstyle (encoding TS1
+) on input line 94.
+LaTeX Encoding Info:    Redeclaring text symbol \textoneoldstyle (encoding TS1)
+ on input line 95.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwooldstyle (encoding TS1)
+ on input line 96.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreeoldstyle (encoding TS
+1) on input line 97.
+LaTeX Encoding Info:    Redeclaring text symbol \textfouroldstyle (encoding TS1
+) on input line 98.
+LaTeX Encoding Info:    Redeclaring text symbol \textfiveoldstyle (encoding TS1
+) on input line 99.
+LaTeX Encoding Info:    Redeclaring text symbol \textsixoldstyle (encoding TS1)
+ on input line 100.
+LaTeX Encoding Info:    Redeclaring text symbol \textsevenoldstyle (encoding TS
+1) on input line 101.
+LaTeX Encoding Info:    Redeclaring text symbol \texteightoldstyle (encoding TS
+1) on input line 102.
+LaTeX Encoding Info:    Redeclaring text symbol \textnineoldstyle (encoding TS1
+) on input line 103.
+LaTeX Encoding Info:    Redeclaring text symbol \textlangle (encoding TS1) on i
+nput line 104.
+LaTeX Encoding Info:    Redeclaring text symbol \textminus (encoding TS1) on in
+put line 105.
+LaTeX Encoding Info:    Redeclaring text symbol \textrangle (encoding TS1) on i
+nput line 106.
+LaTeX Encoding Info:    Redeclaring text symbol \textmho (encoding TS1) on inpu
+t line 107.
+LaTeX Encoding Info:    Redeclaring text symbol \textbigcircle (encoding TS1) o
+n input line 108.
+LaTeX Encoding Info:    Redeclaring text command \textcircled (encoding TS1) on
+ input line 109.
+LaTeX Encoding Info:    Redeclaring text symbol \textohm (encoding TS1) on inpu
+t line 115.
+LaTeX Encoding Info:    Redeclaring text symbol \textlbrackdbl (encoding TS1) o
+n input line 116.
+LaTeX Encoding Info:    Redeclaring text symbol \textrbrackdbl (encoding TS1) o
+n input line 117.
+LaTeX Encoding Info:    Redeclaring text symbol \textuparrow (encoding TS1) on 
+input line 118.
+LaTeX Encoding Info:    Redeclaring text symbol \textdownarrow (encoding TS1) o
+n input line 119.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciigrave (encoding TS1) 
+on input line 120.
+LaTeX Encoding Info:    Redeclaring text symbol \textborn (encoding TS1) on inp
+ut line 121.
+LaTeX Encoding Info:    Redeclaring text symbol \textdivorced (encoding TS1) on
+ input line 122.
+LaTeX Encoding Info:    Redeclaring text symbol \textdied (encoding TS1) on inp
+ut line 123.
+LaTeX Encoding Info:    Redeclaring text symbol \textleaf (encoding TS1) on inp
+ut line 124.
+LaTeX Encoding Info:    Redeclaring text symbol \textmarried (encoding TS1) on 
+input line 125.
+LaTeX Encoding Info:    Redeclaring text symbol \textmusicalnote (encoding TS1)
+ on input line 126.
+LaTeX Encoding Info:    Redeclaring text symbol \texttildelow (encoding TS1) on
+ input line 127.
+LaTeX Encoding Info:    Redeclaring text symbol \textdblhyphenchar (encoding TS
+1) on input line 128.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciibreve (encoding TS1) 
+on input line 129.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciicaron (encoding TS1) 
+on input line 130.
+LaTeX Encoding Info:    Redeclaring text symbol \textacutedbl (encoding TS1) on
+ input line 131.
+LaTeX Encoding Info:    Redeclaring text symbol \textgravedbl (encoding TS1) on
+ input line 132.
+LaTeX Encoding Info:    Redeclaring text symbol \textdagger (encoding TS1) on i
+nput line 133.
+LaTeX Encoding Info:    Redeclaring text symbol \textdaggerdbl (encoding TS1) o
+n input line 134.
+LaTeX Encoding Info:    Redeclaring text symbol \textbardbl (encoding TS1) on i
+nput line 135.
+LaTeX Encoding Info:    Redeclaring text symbol \textperthousand (encoding TS1)
+ on input line 136.
+LaTeX Encoding Info:    Redeclaring text symbol \textbullet (encoding TS1) on i
+nput line 137.
+LaTeX Encoding Info:    Redeclaring text symbol \textcelsius (encoding TS1) on 
+input line 138.
+LaTeX Encoding Info:    Redeclaring text symbol \textdollaroldstyle (encoding T
+S1) on input line 139.
+LaTeX Encoding Info:    Redeclaring text symbol \textcentoldstyle (encoding TS1
+) on input line 140.
+LaTeX Encoding Info:    Redeclaring text symbol \textflorin (encoding TS1) on i
+nput line 141.
+LaTeX Encoding Info:    Redeclaring text symbol \textcolonmonetary (encoding TS
+1) on input line 142.
+LaTeX Encoding Info:    Redeclaring text symbol \textwon (encoding TS1) on inpu
+t line 143.
+LaTeX Encoding Info:    Redeclaring text symbol \textnaira (encoding TS1) on in
+put line 144.
+LaTeX Encoding Info:    Redeclaring text symbol \textguarani (encoding TS1) on 
+input line 145.
+LaTeX Encoding Info:    Redeclaring text symbol \textpeso (encoding TS1) on inp
+ut line 146.
+LaTeX Encoding Info:    Redeclaring text symbol \textlira (encoding TS1) on inp
+ut line 147.
+LaTeX Encoding Info:    Redeclaring text symbol \textrecipe (encoding TS1) on i
+nput line 148.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobang (encoding TS1)
+ on input line 149.
+LaTeX Encoding Info:    Redeclaring text symbol \textinterrobangdown (encoding 
+TS1) on input line 150.
+LaTeX Encoding Info:    Redeclaring text symbol \textdong (encoding TS1) on inp
+ut line 151.
+LaTeX Encoding Info:    Redeclaring text symbol \texttrademark (encoding TS1) o
+n input line 152.
+LaTeX Encoding Info:    Redeclaring text symbol \textpertenthousand (encoding T
+S1) on input line 153.
+LaTeX Encoding Info:    Redeclaring text symbol \textpilcrow (encoding TS1) on 
+input line 154.
+LaTeX Encoding Info:    Redeclaring text symbol \textbaht (encoding TS1) on inp
+ut line 155.
+LaTeX Encoding Info:    Redeclaring text symbol \textnumero (encoding TS1) on i
+nput line 156.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiscount (encoding TS1) on
+ input line 157.
+LaTeX Encoding Info:    Redeclaring text symbol \textestimated (encoding TS1) o
+n input line 158.
+LaTeX Encoding Info:    Redeclaring text symbol \textopenbullet (encoding TS1) 
+on input line 159.
+LaTeX Encoding Info:    Redeclaring text symbol \textservicemark (encoding TS1)
+ on input line 160.
+LaTeX Encoding Info:    Redeclaring text symbol \textlquill (encoding TS1) on i
+nput line 161.
+LaTeX Encoding Info:    Redeclaring text symbol \textrquill (encoding TS1) on i
+nput line 162.
+LaTeX Encoding Info:    Redeclaring text symbol \textcent (encoding TS1) on inp
+ut line 163.
+LaTeX Encoding Info:    Redeclaring text symbol \textsterling (encoding TS1) on
+ input line 164.
+LaTeX Encoding Info:    Redeclaring text symbol \textcurrency (encoding TS1) on
+ input line 165.
+LaTeX Encoding Info:    Redeclaring text symbol \textyen (encoding TS1) on inpu
+t line 166.
+LaTeX Encoding Info:    Redeclaring text symbol \textbrokenbar (encoding TS1) o
+n input line 167.
+LaTeX Encoding Info:    Redeclaring text symbol \textsection (encoding TS1) on 
+input line 168.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciidieresis (encoding TS
+1) on input line 169.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyright (encoding TS1) o
+n input line 170.
+LaTeX Encoding Info:    Redeclaring text symbol \textordfeminine (encoding TS1)
+ on input line 171.
+LaTeX Encoding Info:    Redeclaring text symbol \textcopyleft (encoding TS1) on
+ input line 172.
+LaTeX Encoding Info:    Redeclaring text symbol \textlnot (encoding TS1) on inp
+ut line 173.
+LaTeX Encoding Info:    Redeclaring text symbol \textcircledP (encoding TS1) on
+ input line 174.
+LaTeX Encoding Info:    Redeclaring text symbol \textregistered (encoding TS1) 
+on input line 175.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciimacron (encoding TS1)
+ on input line 176.
+LaTeX Encoding Info:    Redeclaring text symbol \textdegree (encoding TS1) on i
+nput line 177.
+LaTeX Encoding Info:    Redeclaring text symbol \textpm (encoding TS1) on input
+ line 178.
+LaTeX Encoding Info:    Redeclaring text symbol \texttwosuperior (encoding TS1)
+ on input line 179.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreesuperior (encoding TS
+1) on input line 180.
+LaTeX Encoding Info:    Redeclaring text symbol \textasciiacute (encoding TS1) 
+on input line 181.
+LaTeX Encoding Info:    Redeclaring text symbol \textmu (encoding TS1) on input
+ line 182.
+LaTeX Encoding Info:    Redeclaring text symbol \textparagraph (encoding TS1) o
+n input line 183.
+LaTeX Encoding Info:    Redeclaring text symbol \textperiodcentered (encoding T
+S1) on input line 184.
+LaTeX Encoding Info:    Redeclaring text symbol \textreferencemark (encoding TS
+1) on input line 185.
+LaTeX Encoding Info:    Redeclaring text symbol \textonesuperior (encoding TS1)
+ on input line 186.
+LaTeX Encoding Info:    Redeclaring text symbol \textordmasculine (encoding TS1
+) on input line 187.
+LaTeX Encoding Info:    Redeclaring text symbol \textsurd (encoding TS1) on inp
+ut line 188.
+LaTeX Encoding Info:    Redeclaring text symbol \textonequarter (encoding TS1) 
+on input line 189.
+LaTeX Encoding Info:    Redeclaring text symbol \textonehalf (encoding TS1) on 
+input line 190.
+LaTeX Encoding Info:    Redeclaring text symbol \textthreequarters (encoding TS
+1) on input line 191.
+LaTeX Encoding Info:    Redeclaring text symbol \texteuro (encoding TS1) on inp
+ut line 192.
+LaTeX Encoding Info:    Redeclaring text symbol \texttimes (encoding TS1) on in
+put line 193.
+LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on inpu
+t line 194.
+))
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip63
 \bibsep=\skip64
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count314
-)) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+))
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2026/05/19 v2.18d AMS math features
 \@mathmargin=\skip65
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks30
 \ex@=\dimen188
-)) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+))
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen189
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count315
@@ -484,26 +670,31 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks34
 LaTeX Info: Redefining \[ on input line 2965.
 LaTeX Info: Redefining \] on input line 2966.
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+)) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.st
+y
 Package: placeins 2005/04/18  v 2.2
 ) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -534,7 +725,8 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen265
 ) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
 \col@sep=\dimen266
 \ar@mcellbox=\box74
@@ -551,9 +743,11 @@ Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
 \TX@delta=\dimen272
 \TX@cols=\count331
 \TX@ftn=\toks36
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen273
 \captionmargin=\dimen274
@@ -565,7 +759,9 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen280
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
-Package caption Info: \@makecaption = \long macro:#1#2->\ifx \FigName \@captype \vskip \abovecaptionskip \@figurecaption {#1}{#2} \else \@tablecaption {#1}{#2} \vskip \belowcaptionskip \fi  on input line 1175.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \FigName \@captype
+ \vskip \abovecaptionskip \@figurecaption {#1}{#2} \else \@tablecaption {#1}{#2
+} \vskip \belowcaptionskip \fi  on input line 1175.
 )
 
 Package caption Warning: Unknown document class (or package),
@@ -578,7 +774,9 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: wrapfig package is loaded.
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 ) (sn-article.aux)
@@ -638,7 +836,9 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemargintrue
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count335
 \scratchdimen=\dimen281
@@ -651,10 +851,15 @@ LaTeX Font Info:    ... okay on input line 14.
 \MPnumerator=\count339
 \makeMPintoPDFobject=\count340
 \everyMPtoPDFconversion=\toks38
-) (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Info: Redefining \S on input line 14.
@@ -672,22 +877,29 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 41.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
- (C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+
+
+(C:\Users\mursa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 41.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 41
+.
 
 Underfull \hbox (badness 4492) in paragraph at lines 41--41
- \OT1/cmr/m/n/9.03374 specific low-level fin-ger-prints|such as pixel, noise, or fre-quency arti- 
+ \OT1/cmr/m/n/9.03374 specific low-level fin-ger-prints|such as pixel, noise, o
+r fre-quency arti- 
  []
 
 
 Underfull \hbox (badness 1308) in paragraph at lines 41--41
- \OT1/cmr/m/n/9.03374 facts|exhibit severe gen-er-al-iza-tion fail-ures when eval-u-ated on pre-vi-ously 
+ \OT1/cmr/m/n/9.03374 facts|exhibit severe gen-er-al-iza-tion fail-ures when ev
+al-u-ated on pre-vi-ously 
  []
 
 
@@ -699,7 +911,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1
 
 {C:/Users/mursa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 41.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 41
+.
 LaTeX Font Info:    Calculating math sizes for size <> on input line 41.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1098,72 +1311,56 @@ Package pdftex.def Info: Pictures/Figure 6.png  used on input line 411.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21] (sn-article.bbl
+ [21]
+(sn-article.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22 <./Pictures/Figure 6.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 85--95
-[]\OT1/cmr/m/n/10 Baru, L.B., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Wavelet-Driven Gen-er-al-iz-able Frame-work
+Underfull \hbox (badness 4416) in paragraph at lines 100--108
+[]\OT1/cmr/m/n/10 Chen, J., et al.: A Sin-gle Sim-ple Patch is All You Need for
+ AI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--95
-\OT1/cmr/m/n/10 for Deep-fake Face Forgery Detec-tion. In: Proc. IEEE/CVF
+Underfull \hbox (badness 1077) in paragraph at lines 126--136
+[]\OT1/cmr/m/n/10 Wang, Y., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Dyna
+mic Graph Learn-ing with Content-guided Spatial-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--95
-\OT1/cmr/m/n/10 Win-ter Conf. Appli-ca-tions of Com-puter Vision Work-shops
+Underfull \hbox (badness 3895) in paragraph at lines 126--136
+\OT1/cmr/m/n/10 Conf. Com-puter Vision and Pat-tern Recog-ni-tion (CVPR) (2023)
+. doi:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--95
-\OT1/cmr/m/n/10 (WACVW) (2025). Avail-able: [][]$https : / / www . semanticscholar . org / paper /
+Underfull \hbox (badness 3612) in paragraph at lines 126--136
+\OT1/cmr/m/n/10 10.1109/cvpr52729.2023.00703. Avail-able: [][]$https : / / doi 
+. org / 10 . 1109 / cvpr52729 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--95
-\OT1/cmr/m/n/10 Wavelet-[]Driven-[]Generalizable-[]Framework-[]for-[]Deepfake-[]Baru-[]Boddeda /
+Underfull \hbox (badness 1253) in paragraph at lines 140--149
+[]\OT1/cmr/m/n/10 Ke, J., et al.: DF-UDetector: An effec-tive method towards ro
+bust deep-
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 99--107
-[]\OT1/cmr/m/n/10 Chen, J., et al.: A Sin-gle Sim-ple Patch is All You Need for AI-
+Underfull \hbox (badness 7925) in paragraph at lines 140--149
+\OT1/cmr/m/n/10 fake detec-tion via fea-ture restora-tion. Neu-ral Net-works (2
+023). doi:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--135
-[]\OT1/cmr/m/n/10 Wang, Y., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Dynamic Graph Learn-ing with Content-guided
+Underfull \hbox (badness 1178) in paragraph at lines 153--162
+[]\OT1/cmr/m/n/10 Meng, Z., et al.: ARTI-FACT FEA-TURE PURIFI-CA-TION FOR CROSS
+-
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 125--135
-\OT1/cmr/m/n/10 Spatial-Frequency Rela-tion Rea-son-ing for Deep-fake Detec-tion. In: Proc.
- []
-
-
-Underfull \hbox (badness 5711) in paragraph at lines 125--135
-\OT1/cmr/m/n/10 IEEE/CVF Conf. Com-puter Vision and Pat-tern Recog-ni-tion (CVPR)
- []
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 125--135
-\OT1/cmr/m/n/10 (2023). Avail-able: [][]$https : / / openaccess . thecvf . com / content / CVPR2023 / papers /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--135
-\OT1/cmr/m/n/10 Wang[]Dynamic[]Graph[]Learning[]With[]Content-[]Guided[]Spatial-[]Frequency[]
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 152--161
-[]\OT1/cmr/m/n/10 Meng, Z., et al.: ARTI-FACT FEA-TURE PURIFI-CA-TION FOR CROSS-
- []
-
-
-Underfull \hbox (badness 1210) in paragraph at lines 165--175
-[]\OT1/cmr/m/n/10 Li, O., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Improv-ing Syn-thetic Image Detec-tion Towards Gen-er-al-iza-
+Underfull \hbox (badness 1210) in paragraph at lines 166--176
+[]\OT1/cmr/m/n/10 Li, O., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Improv
+-ing Syn-thetic Image Detec-tion Towards Gen-er-al-iza-
  []
 
 
@@ -1173,79 +1370,75 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
-Underfull \hbox (badness 4686) in paragraph at lines 283--292
-\OT1/cmr/m/n/10 (2023). Avail-able: [][]$https : / / openaccess . thecvf . com / content / ICCV2023 / papers /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--292
-\OT1/cmr/m/n/10 Yan[]UCF[]Uncovering[]Common[]Features[]for[]Generalizable[]Deepfake[]Detection[]
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \hbox (badness 2134) in paragraph at lines 321--329
-[]\OT1/cmr/m/n/10 Kumari, K., et al.: Light2Lie: Detect-ing Deep-fake Images Using Phys-i-
+Underfull \hbox (badness 1057) in paragraph at lines 322--331
+[]\OT1/cmr/m/n/10 Kumari, K., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Li
+ght2Lie: Detect-ing Deep-fake Images Using Phys-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
-[]\OT1/cmr/m/n/10 Rani, A., et al.: Dig-i-tal image forgery detec-tion under com-
+Underfull \hbox (badness 1107) in paragraph at lines 322--331
+\OT1/cmr/m/n/10 Reflectance Laws. In: Pro-ceed-ings of the NDSS Sym-po-sium 202
+6 (2026).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
-\OT1/cmr/m/n/10 plex light-ing using Phong reflec-tion model. Jour-nal of Elec-tronic
+Underfull \hbox (badness 2689) in paragraph at lines 335--344
+[]\OT1/cmr/m/n/10 Rani, A., et al.: Dig-i-tal image forgery detec-tion under co
+m-plex light-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
-\OT1/cmr/m/n/10 Imag-ing (2024). Avail-able: [][]$https : / / www . spiedigitallibrary . org /
+Underfull \hbox (badness 1533) in paragraph at lines 335--344
+\OT1/cmr/m/n/10 ing using Phong reflec-tion model. Jour-nal of Elec-tronic Imag
+-ing (2024).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
-\OT1/cmr/m/n/10 journals / journal-[]of-[]electronic-[]imaging / volume-[]31 / issue-[]05 / 051402 /
+Underfull \hbox (badness 3343) in paragraph at lines 361--370
+[]\OT1/cmr/m/n/10 Zhou, Z., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : AIGI
+-Holmes: Towards Explain-able and Gen-er-al-iz-able
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--342
-\OT1/cmr/m/n/10 Digital-[]image-[]forgery-[]detection-[]under-[]complex-[]lighting-[]using-[]Phong-[]re^^Mection /
+Underfull \hbox (badness 2828) in paragraph at lines 361--370
+\OT1/cmr/m/n/10 AI-Generated Image Detec-tion via Mul-ti-modal Large Lan-guage 
+Mod-els.
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 359--368
-[]\OT1/cmr/m/n/10 Zhou, Z., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : AIGI-Holmes: Towards Explain-able and Gen-er-al-iz-able
+Underfull \hbox (badness 2762) in paragraph at lines 361--370
+\OT1/cmr/m/n/10 In: Proc. IEEE/CVF Int. Conf. Com-puter Vision (ICCV) (2025). d
+oi:
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 359--368
-\OT1/cmr/m/n/10 AI-Generated Image Detec-tion via Mul-ti-modal Large Lan-guage Mod-
+Underfull \hbox (badness 10000) in paragraph at lines 361--370
+\OT1/cmr/m/n/10 10.1109/iccv51701.2025.01742. Avail-able: [][]$https : / / doi 
+. org / 10 . 1109 / iccv51701 .
  []
 
 
-Underfull \hbox (badness 3179) in paragraph at lines 359--368
-\OT1/cmr/m/n/10 els. In: Proc. IEEE/CVF Int. Conf. Com-puter Vision (ICCV) (2025).
+Underfull \hbox (badness 2027) in paragraph at lines 423--431
+[]\OT1/cmr/m/n/10 Sun, Z., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Con-t
+rastive Pseudo Learn-ing for Open-World Deep-Fake
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--368
-\OT1/cmr/m/n/10 Avail-able: [][]$https : / / openaccess . thecvf . com / content / ICCV2025 / papers /
+Underfull \hbox (badness 3250) in paragraph at lines 423--431
+\OT1/cmr/m/n/10 Attri-bu-tion. In: Proc. IEEE/CVF Int. Conf. Com-puter Vision (
+ICCV)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--368
-\OT1/cmr/m/n/10 Zhou[]AIGI-[]Holmes[]Towards[]Explainable[]and[]Generalizable[]AI-[]Generated[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 421--429
-[][]$\OT1/cmr/m/n/10 https : / / openaccess . thecvf . com / content / ICCV2023 / papers / Sun[]Contrastive[]
+Underfull \hbox (badness 1019) in paragraph at lines 435--444
+[]\OT1/cmr/m/n/10 Li, J., et al.: Dynamic Spatial-Temporal Incon-sis-tency Lear
+n-ing for Gen-
  []
 
 
@@ -1255,23 +1448,51 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-Underfull \hbox (badness 1019) in paragraph at lines 433--442
-[]\OT1/cmr/m/n/10 Li, J., et al.: Dynamic Spatial-Temporal Incon-sis-tency Learn-ing for Gen-
+Underfull \hbox (badness 4595) in paragraph at lines 460--469
+[]\OT1/cmr/m/n/10 Yang, S., et al.: CrossDF: improv-ing cross-domain deep-fake 
+detec-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--478
-\OT1/cmr/m/n/10 org / paper / GM-[]DF % 3A-[]Generalized-[]Multi-[]Scenario-[]Deepfake-[]Lai-[]Wang /
+Underfull \hbox (badness 3281) in paragraph at lines 460--469
+\OT1/cmr/m/n/10 with deep infor-ma-tion decom-po-si-tion. Machine Vision and Ap
+pli-ca-tions
  []
 
 
-Underfull \hbox (badness 4144) in paragraph at lines 494--503
-\OT1/cmr/m/n/10 fake Image Detec-tion Based on Trans-fer Learn-ing. Elec-tron-ics (2024).
+Underfull \hbox (badness 1248) in paragraph at lines 460--469
+\OT1/cmr/m/n/10 (2024). doi: 10.1007/s00138-024-01602-5. Avail-able: [][]$https
+ : / / doi . org / 10 . 1007 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--503
-\OT1/cmr/m/n/10 doi: 10.3390/elec-tron-ics13091662. Avail-able: [][]$https : / / doi . org / 10 . 3390 /
+Underfull \hbox (badness 1540) in paragraph at lines 473--482
+\OT1/cmr/m/n/10 10.1145/3746027.3755386. Avail-able: [][]$https : / / dl . acm 
+. org / doi / 10 . 1145 / 3746027 .
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 486--494
+\OT1/cmr/m/n/10 Interaction. In: Proc. AAAI Conf. Arti-fi-cial Intel-li-gence (
+2024). doi:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--494
+\OT1/cmr/m/n/10 10.1609/aaai.v37i12.26701. Avail-able: [][]$https : / / doi . o
+rg / 10 . 1609 / aaai . v37i12 .
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 498--507
+\OT1/cmr/m/n/10 fake Image Detec-tion Based on Trans-fer Learn-ing. Elec-tron-i
+cs (2024).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--507
+\OT1/cmr/m/n/10 doi: 10.3390/elec-tron-ics13091662. Avail-able: [][]$https : / 
+/ doi . org / 10 . 3390 /
  []
 
 
@@ -1281,38 +1502,51 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
-Underfull \hbox (badness 2189) in paragraph at lines 593--603
-[]\OT1/cmr/m/n/10 Shi, J., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Towards Real-World Deep-fake Detec-tion: A Diverse In-
+Underfull \hbox (badness 2189) in paragraph at lines 598--608
+[]\OT1/cmr/m/n/10 Shi, J., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Towar
+ds Real-World Deep-fake Detec-tion: A Diverse In-
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 593--603
-\OT1/cmr/m/n/10 the-wild Dataset of Forgery Faces. In: 2025 Inter-na-tional Con-fer-ence
+Underfull \hbox (badness 5607) in paragraph at lines 598--608
+\OT1/cmr/m/n/10 the-wild Dataset of Forgery Faces. In: 2025 Inter-na-tional Con
+-fer-ence
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 593--603
-\OT1/cmr/m/n/10 on Intel-li-gent and Secure Engi-neer-ing Solu-tions (CISES) (2025). doi:
+Underfull \hbox (badness 5431) in paragraph at lines 598--608
+\OT1/cmr/m/n/10 on Intel-li-gent and Secure Engi-neer-ing Solu-tions (CISES) (2
+025). doi:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 593--603
-\OT1/cmr/m/n/10 10.1109/cises66934.2025.11265620. Avail-able: [][]$https : / / doi . org / 10 . 1109 /
+Underfull \hbox (badness 10000) in paragraph at lines 598--608
+\OT1/cmr/m/n/10 10.1109/cises66934.2025.11265620. Avail-able: [][]$https : / / 
+doi . org / 10 . 1109 /
  []
 
 
-Underfull \hbox (badness 4229) in paragraph at lines 633--643
-[]\OT1/cmr/m/n/10 Chandra, N.A., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Deepfake-Eval-2024: A Multi-Modal In-the-Wild
+Underfull \hbox (badness 4229) in paragraph at lines 638--648
+[]\OT1/cmr/m/n/10 Chandra, N.A., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 :
+ Deepfake-Eval-2024: A Multi-Modal In-the-Wild
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 633--643
-\OT1/cmr/m/n/10 Bench-mark of Deep-fakes Cir-cu-lated in 2024. In: 2026 IEEE/CVF Win-
+Underfull \hbox (badness 1845) in paragraph at lines 638--648
+\OT1/cmr/m/n/10 Bench-mark of Deep-fakes Cir-cu-lated in 2024. In: 2026 IEEE/CV
+F Win-
  []
 
 
-Underfull \hbox (badness 4341) in paragraph at lines 672--680
-\OT1/cmr/m/n/10 er-ated Image Detec-tion Datasets. Lec-ture Notes in Com-puter Sci-ence
+Underfull \hbox (badness 2903) in paragraph at lines 652--661
+\OT1/cmr/m/n/10 10.1109/ACCESS.2023.3246877. Avail-able: [][]$https : / / doi .
+ org / 10 . 1109 / ACCESS .
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 677--685
+\OT1/cmr/m/n/10 er-ated Image Detec-tion Datasets. Lec-ture Notes in Com-puter 
+Sci-ence
  []
 
 
@@ -1322,60 +1556,82 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-Underfull \hbox (badness 4686) in paragraph at lines 721--730
-\OT1/cmr/m/n/10 (2023). Avail-able: [][]$https : / / openaccess . thecvf . com / content / ICCV2023 / papers /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 721--730
-\OT1/cmr/m/n/10 Le[]Quality-[]Agnostic[]Deepfake[]Detection[]with[]Intra-[]model[]Collaborative[]
- []
-
-
-Underfull \hbox (badness 3219) in paragraph at lines 812--821
-[]\OT1/cmr/m/n/10 Bhattacharyya, C., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Dif-fu-sion Deep-fake. In: 2024 IEEE Inter-na-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-Underfull \hbox (badness 1648) in paragraph at lines 825--834
-[]\OT1/cmr/m/n/10 Ricker, J., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Towards the Detec-tion of Dif-fu-sion Model Deep-fakes.
+Underfull \hbox (badness 3219) in paragraph at lines 818--827
+[]\OT1/cmr/m/n/10 Bhattacharyya, C., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/
+10 : Dif-fu-sion Deep-fake. In: 2024 IEEE Inter-na-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 825--834
-\OT1/cmr/m/n/10 In: Pro-ceed-ings of the 19th Inter-na-tional Joint Con-fer-ence on Com-
+Underfull \hbox (badness 1648) in paragraph at lines 831--840
+[]\OT1/cmr/m/n/10 Ricker, J., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : To
+wards the Detec-tion of Dif-fu-sion Model Deep-fakes.
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 825--834
-\OT1/cmr/m/n/10 puter Vision, Imag-ing and Com-puter Graph-ics The-ory and Appli-ca-tions
+Underfull \hbox (badness 4819) in paragraph at lines 831--840
+\OT1/cmr/m/n/10 In: Pro-ceed-ings of the 19th Inter-na-tional Joint Con-fer-enc
+e on Com-
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 825--834
-\OT1/cmr/m/n/10 (2024). doi: 10.5220/0012422000003660. Avail-able: [][]$https : / / doi . org / 10 . 5220 /
+Underfull \hbox (badness 1715) in paragraph at lines 831--840
+\OT1/cmr/m/n/10 puter Vision, Imag-ing and Com-puter Graph-ics The-ory and Appl
+i-ca-tions
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 877--886
-\OT1/cmr/m/n/10 Advanced Machine Learn-ing and Fusion Meth-ods. Elec-tron-ics (2023).
+Underfull \hbox (badness 2460) in paragraph at lines 831--840
+\OT1/cmr/m/n/10 (2024). doi: 10.5220/0012422000003660. Avail-able: [][]$https :
+ / / doi . org / 10 . 5220 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 877--886
-\OT1/cmr/m/n/10 doi: 10.3390/elec-tron-ics13010095. Avail-able: [][]$https : / / doi . org / 10 . 3390 /
+Underfull \hbox (badness 1466) in paragraph at lines 858--866
+\OT1/cmr/m/n/10 tos of real-world scenes? Cog-ni-tive Research: Prin-ci-ples an
+d Impli-ca-tions
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 858--866
+\OT1/cmr/m/n/10 (2017). doi: 10.1186/s41235-017-0067-2. Avail-able: [][]$https 
+: / / doi . org / 10 . 1186 /
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 882--891
+\OT1/cmr/m/n/10 Advanced Machine Learn-ing and Fusion Meth-ods. Elec-tron-ics (
+2023).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 882--891
+\OT1/cmr/m/n/10 doi: 10.3390/elec-tron-ics13010095. Avail-able: [][]$https : / 
+/ doi . org / 10 . 3390 /
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 895--904
+[]\OT1/cmr/m/n/10 Sunil, R., et al.: Explor-ing autonomous meth-ods for deep-fa
+ke detec-tion:
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 895--904
+\OT1/cmr/m/n/10 A detailed sur-vey on tech-niques and eval-u-a-tion. Heliyon (2
+025). doi:
  []
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29] (sn-article.aux)
+ [29]
+(sn-article.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
@@ -1384,17 +1640,31 @@ Package rerunfilecheck Info: File `sn-article.out' has not changed.
 (rerunfilecheck)             Checksum: C09BE54B701F4BB5AC8E6E13A89BC4F8;9591.
  ) 
 Here is how much of TeX's memory you used:
- 14189 strings out of 467501
- 228240 string characters out of 5408550
+ 14187 strings out of 467501
+ 228126 string characters out of 5408550
  668509 words of memory out of 5000000
  43071 multiletter control sequences out of 15000+600000
  652578 words of font info for 134 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 89i,12n,93p,2015b,736s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\mursa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\tcrm1000.pk><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on sn-article.pdf (29 pages, 5564790 bytes).
+ 89i,12n,93p,1979b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\mursa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\tcrm
+1000.pk><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx7.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/mursa/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/mursa/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mursa/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mur
+sa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/U
+sers/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr9.pfb><C:/Users/mursa/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmti10.pfb>
+Output written on sn-article.pdf (29 pages, 5556540 bytes).
 PDF statistics:
- 870 PDF objects out of 1000 (max. 8388607)
+ 858 PDF objects out of 1000 (max. 8388607)
  162 named destinations out of 1000 (max. 500000)
  319 words of extra memory for PDF output out of 10000 (max. 10000000)
 

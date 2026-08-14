@@ -60,8 +60,9 @@ doi: 10.1136/bmj.n71. Available: \url{https://doi.org/10.1136/bmj.n71}
 \begin{botherref}
 \oauthor{\bsnm{Samal}, \binits{D.}}, et al.:
 {Deepfake Image Detection \& Classification using Conv2D Neural Networks}.
-preprint.
-Available: \url{https://ceur-ws.org/Vol-3706/Paper9.pdf}
+CEUR Workshop Proceedings.
+doi: 10.1109/iccit64611.2024.11022076. Available:
+  \url{https://doi.org/10.1109/iccit64611.2024.11022076}
 (2024)
 \end{botherref}
 \endbibitem
@@ -88,8 +89,8 @@ doi: 10.1109/access.2023.3251417. Available:
 In: \bbtitle{Proc. IEEE/CVF Winter Conf. Applications of Computer Vision
   Workshops (WACVW)}
 (\byear{2025}).
-\bcomment{Available:
-  \url{https://www.semanticscholar.org/paper/Wavelet-Driven-Generalizable-Framework-for-Deepfake-Baru-Boddeda/cca66ebaa0329e3a953d87a69f0280d8d3d5dc8c?utm_source=direct_link}}
+\bcomment{doi: 10.1109/WACVW65960.2025.00180. Available:
+  \url{https://doi.org/10.1109/WACVW65960.2025.00180}}
 \end{bchapter}
 \endbibitem
 
@@ -128,8 +129,8 @@ In: \bbtitle{2025 IEEE/CVF Conference on Computer Vision and Pattern
 In: \bbtitle{Proc. IEEE/CVF Conf. Computer Vision and Pattern Recognition
   (CVPR)}
 (\byear{2023}).
-\bcomment{Available:
-  \url{https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Dynamic_Graph_Learning_With_Content-Guided_Spatial-Frequency_Relation_Reasoning_for_Deepfake_CVPR_2023_paper.pdf}}
+\bcomment{doi: 10.1109/cvpr52729.2023.00703. Available:
+  \url{https://doi.org/10.1109/cvpr52729.2023.00703}}
 \end{bchapter}
 \endbibitem
 
@@ -141,8 +142,8 @@ In: \bbtitle{Proc. IEEE/CVF Conf. Computer Vision and Pattern Recognition
   feature restoration}.
 Neural Networks
 (2023).
-Available:
-  \url{https://www.sciencedirect.com/science/article/abs/pii/S0893608023000011?via\%3Dihub}
+doi: 10.1016/j.neunet.2023.01.001. Available:
+  \url{https://doi.org/10.1016/j.neunet.2023.01.001}
 \end{botherref}
 \endbibitem
 
@@ -285,20 +286,20 @@ doi: 10.1111/exsy.13829. Available: \url{https://doi.org/10.1111/exsy.13829}
   Detection}}.
 In: \bbtitle{Proc. IEEE/CVF Int. Conf. Computer Vision (ICCV)}
 (\byear{2023}).
-\bcomment{Available:
-  \url{https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf}}
+\bcomment{doi: 10.1109/iccv51070.2023.02048. Available:
+  \url{https://doi.org/10.1109/iccv51070.2023.02048}}
 \end{bchapter}
 \endbibitem
 
 %%% 20
-\bibitem[\protect\citeauthoryear{Yan et~al.}{1994}]{ASanity21}
+\bibitem[\protect\citeauthoryear{Yan et~al.}{2024}]{ASanity21}
 \begin{botherref}
 \oauthor{\bsnm{Yan}, \binits{S.}}, et al.:
 {A Sanity Check for AI-generated Image Detection}.
-Scientific American
-(1994).
-doi: 10.1038/scientificamerican0694-19. Available:
-  \url{https://doi.org/10.1038/scientificamerican0694-19}
+arXiv preprint arXiv:2404.14842.
+doi: 10.48550/arXiv.2404.14842. Available:
+  \url{https://arxiv.org/abs/2404.14842}
+(2024)
 \end{botherref}
 \endbibitem
 
@@ -317,14 +318,15 @@ doi: 10.2139/ssrn.6993497. Available:
 
 %%% 22
 \bibitem[\protect\citeauthoryear{Kumari et~al.}{2026}]{Light2lieDetecting2}
-\begin{botherref}
-\oauthor{\bsnm{Kumari}, \binits{K.}}, et al.:
-{Light2Lie: Detecting Deepfake Images Using Physical Reflectance Laws}.
-preprint.
-Available:
-  \url{https://www.ndss-symposium.org/wp-content/uploads/2026-s923-paper.pdf}
-(2026)
-\end{botherref}
+\begin{bchapter}
+\bauthor{\bsnm{Kumari}, \binits{K.}}, \betal:
+\bctitle{{Light2Lie: Detecting Deepfake Images Using Physical Reflectance
+  Laws}}.
+In: \bbtitle{Proceedings of the NDSS Symposium 2026}
+(\byear{2026}).
+\bcomment{doi: 10.14722/ndss.2026.230923. Available:
+  \url{https://doi.org/10.14722/ndss.2026.230923}}
+\end{bchapter}
 \endbibitem
 
 %%% 23
@@ -335,8 +337,8 @@ Available:
   model}.
 Journal of Electronic Imaging
 (2024).
-Available:
-  \url{https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-05/051402/Digital-image-forgery-detection-under-complex-lighting-using-Phong-reflection/10.1117/1.JEI.31.5.051402.full}
+doi: 10.1117/1.JEI.31.5.051402. Available:
+  \url{https://doi.org/10.1117/1.JEI.31.5.051402}
 \end{botherref}
 \endbibitem
 
@@ -348,8 +350,8 @@ Available:
   Text-to-Image Generation Models}}.
 In: \bbtitle{Proc. ACM SIGSAC Conf. Computer and Communications Security (CCS)}
 (\byear{2024}).
-\bcomment{Available:
-  \url{https://yangzhangalmo.github.io/papers/CCS23-DEFAKE.pdf}}
+\bcomment{doi: 10.1145/3576915.3616588. Available:
+  \url{https://doi.org/10.1145/3576915.3616588}}
 \end{bchapter}
 \endbibitem
 
@@ -361,8 +363,8 @@ In: \bbtitle{Proc. ACM SIGSAC Conf. Computer and Communications Security (CCS)}
   Detection via Multimodal Large Language Models}}.
 In: \bbtitle{Proc. IEEE/CVF Int. Conf. Computer Vision (ICCV)}
 (\byear{2025}).
-\bcomment{Available:
-  \url{https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_AIGI-Holmes_Towards_Explainable_and_Generalizable_AI-Generated_Image_Detection_via_Multimodal_ICCV_2025_paper.pdf}}
+\bcomment{doi: 10.1109/iccv51701.2025.01742. Available:
+  \url{https://doi.org/10.1109/iccv51701.2025.01742}}
 \end{bchapter}
 \endbibitem
 
@@ -396,7 +398,7 @@ In: \bbtitle{Proceedings of the AAAI Conference on Artificial Intelligence}
 \bibitem[\protect\citeauthoryear{Sha et~al.}{2024}]{ZerofakeZeroshot47}
 \begin{bchapter}
 \bauthor{\bsnm{Sha}, \binits{Z.}}, \betal:
-\bctitle{{ZeroFake: Zero-Shot Detection of Fake Images Generated andEdited by
+\bctitle{{ZeroFake: Zero-Shot Detection of Fake Images Generated and Edited by
   Text-to-Image Generation Models}}.
 In: \bbtitle{Proc. ACM SIGSAC Conf. Computer and Communications Security (CCS)}
 (\byear{2024}).
@@ -422,8 +424,8 @@ doi: 10.3390/app15020725. Available: \url{https://doi.org/10.3390/app15020725}
 \bctitle{{Contrastive Pseudo Learning for Open-World DeepFake Attribution}}.
 In: \bbtitle{Proc. IEEE/CVF Int. Conf. Computer Vision (ICCV)}
 (\byear{2023}).
-\bcomment{Available:
-  \url{https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Contrastive_Pseudo_Learning_for_Open-World_DeepFake_Attribution_ICCV_2023_paper.pdf}}
+\bcomment{doi: 10.1109/iccv51070.2023.01909. Available:
+  \url{https://doi.org/10.1109/iccv51070.2023.01909}}
 \end{bchapter}
 \endbibitem
 
@@ -458,21 +460,23 @@ doi: 10.3390/a19040270. Available: \url{https://doi.org/10.3390/a19040270}
 \oauthor{\bsnm{Yang}, \binits{S.}}, et al.:
 {CrossDF: improving cross-domain deepfake detection with deep information
   decomposition}.
-preprint.
-Available: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC12674592/}
-(2024)
+Machine Vision and Applications
+(2024).
+doi: 10.1007/s00138-024-01602-5. Available:
+  \url{https://doi.org/10.1007/s00138-024-01602-5}
 \end{botherref}
 \endbibitem
 
 %%% 34
-\bibitem[\protect\citeauthoryear{Lai et~al.}{2024}]{GmdfGeneralized37}
+\bibitem[\protect\citeauthoryear{Lai et~al.}{2025}]{GmdfGeneralized37}
 \begin{bchapter}
 \bauthor{\bsnm{Lai}, \binits{Y.}}, \betal:
 \bctitle{{GM-DF: Generalized Multi-Scenario Deepfake Detection}}.
-In: \bbtitle{Proc. ACM Int. Conf. Multimedia}
-(\byear{2024}).
-\bcomment{Available:
-  \url{https://www.semanticscholar.org/paper/GM-DF\%3A-Generalized-Multi-Scenario-Deepfake-Lai-Wang/ab8f1bfbc6e6fda70e8aa023fa2fc2b9b87696cf?utm_source=direct_link}}
+In: \bbtitle{Proceedings of the 33rd ACM International Conference on
+  Multimedia}
+(\byear{2025}).
+\bcomment{doi: 10.1145/3746027.3755386. Available:
+  \url{https://dl.acm.org/doi/10.1145/3746027.3755386}}
 \end{bchapter}
 \endbibitem
 
@@ -483,8 +487,8 @@ In: \bbtitle{Proc. ACM Int. Conf. Multimedia}
 \bctitle{{Noise Based Deepfake Detection via Multi-Head Relative-Interaction}}.
 In: \bbtitle{Proc. AAAI Conf. Artificial Intelligence}
 (\byear{2024}).
-\bcomment{Available:
-  \url{https://ojs.aaai.org/index.php/AAAI/article/view/26701}}
+\bcomment{doi: 10.1609/aaai.v37i12.26701. Available:
+  \url{https://doi.org/10.1609/aaai.v37i12.26701}}
 \end{bchapter}
 \endbibitem
 
@@ -570,7 +574,8 @@ In: \bbtitle{2025 IEEE/CVF International Conference on Computer Vision (ICCV)}
   Randomly-Located Tampered Traces}}.
 In: \bbtitle{Proc. Int. Joint Conf. Artificial Intelligence (IJCAI)}
 (\byear{2024}).
-\bcomment{Available: \url{https://www.ijcai.org/proceedings/2024/648}}
+\bcomment{doi: 10.4018/979-8-3373-5228-2.ch010. Available:
+  \url{https://doi.org/10.4018/979-8-3373-5228-2.ch010}}
 \end{bchapter}
 \endbibitem
 
@@ -642,15 +647,15 @@ In: \bbtitle{2026 IEEE/CVF Winter Conference on Applications of Computer Vision
 \endbibitem
 
 %%% 48
-\bibitem[\protect\citeauthoryear{ALNAIM et~al.}{2024}]{DffmdA3}
+\bibitem[\protect\citeauthoryear{ALNAIM et~al.}{2023}]{DffmdA3}
 \begin{botherref}
 \oauthor{\bsnm{ALNAIM}, \binits{N.M.}}, et al.:
 {DFFMD: A Deepfake Face Mask Dataset for Infectious Disease Era With Deepfake
   Detection Algorithms}.
-preprint.
-Available:
-  \url{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049065}
-(2024)
+IEEE Access
+(2023).
+doi: 10.1109/ACCESS.2023.3246877. Available:
+  \url{https://doi.org/10.1109/ACCESS.2023.3246877}
 \end{botherref}
 \endbibitem
 
@@ -723,8 +728,8 @@ doi: 10.3390/app15031225. Available: \url{https://doi.org/10.3390/app15031225}
   Learning}}.
 In: \bbtitle{Proc. IEEE/CVF Int. Conf. Computer Vision (ICCV)}
 (\byear{2023}).
-\bcomment{Available:
-  \url{https://openaccess.thecvf.com/content/ICCV2023/papers/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.pdf}}
+\bcomment{doi: 10.1109/iccv51070.2023.02045. Available:
+  \url{https://doi.org/10.1109/iccv51070.2023.02045}}
 \end{bchapter}
 \endbibitem
 
@@ -788,7 +793,8 @@ In: \bbtitle{2024 IEEE International Joint Conference on Biometrics (IJCB)}
 {A Multimodal Framework for Deepfake Detection}.
 Journal of Engineering Sciences
 (2024).
-Available: \url{https://journal.esrgroups.org/jes/article/view/6126}
+doi: 10.22214/ijraset.2025.75693. Available:
+  \url{https://doi.org/10.22214/ijraset.2025.75693}
 \end{botherref}
 \endbibitem
 
@@ -853,8 +859,8 @@ In: \bbtitle{2020 IEEE/CVF Conference on Computer Vision and Pattern
 {Can people identify original and manipulated photos of real-world scenes?}
 Cognitive Research: Principles and Implications
 (2017).
-Excluded (off-topic, human-perception study). Available:
-  \url{https://link.springer.com/article/10.1186/s41235-017-0067-2}
+doi: 10.1186/s41235-017-0067-2. Available:
+  \url{https://doi.org/10.1186/s41235-017-0067-2}
 \end{botherref}
 \endbibitem
 
@@ -866,8 +872,7 @@ Excluded (off-topic, human-perception study). Available:
   review}.
 WIREs Data Mining and Knowledge Discovery
 (2023).
-Excluded from primary synthesis (secondary review). Available:
-  \url{https://doi.org/10.1002/widm.1520}
+doi: 10.1002/widm.1520. Available: \url{https://doi.org/10.1002/widm.1520}
 \end{botherref}
 \endbibitem
 
@@ -892,7 +897,7 @@ doi: 10.3390/electronics13010095. Available:
   techniques and evaluation}.
 Heliyon
 (2025).
-Excluded from primary synthesis (secondary review). Available:
+doi: 10.1016/j.heliyon.2025.e42273. Available:
   \url{https://doi.org/10.1016/j.heliyon.2025.e42273}
 \end{botherref}
 \endbibitem
