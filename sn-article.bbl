@@ -459,7 +459,7 @@ doi: 10.3390/a19040270. Available: \url{https://doi.org/10.3390/a19040270}
 {CrossDF: improving cross-domain deepfake detection with deep information
   decomposition}.
 preprint.
-Available: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC12674592/}
+Available: \url{ https://doi.org/10.48550/arXiv.2310.00359}
 (2024)
 \end{botherref}
 \endbibitem
@@ -648,8 +648,7 @@ In: \bbtitle{2026 IEEE/CVF Winter Conference on Applications of Computer Vision
 {DFFMD: A Deepfake Face Mask Dataset for Infectious Disease Era With Deepfake
   Detection Algorithms}.
 preprint.
-Available:
-  \url{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049065}
+Available: \url{https://doi.org/10.1109/ACCESS.2023.3246661}
 (2024)
 \end{botherref}
 \endbibitem
