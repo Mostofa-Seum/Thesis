@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex sn-article"] 1786897961.21128 "sn-article.aux" "sn-article.bbl" "sn-article" 1786897972.77386 0
+["bibtex sn-article"] 1786898236.7756 "sn-article.aux" "sn-article.bbl" "sn-article" 1786898252.08596 0
   "./sn-bibliography.bib" 1786897803 24341 c45795ac0335f74d8a8b093c1356ea35 ""
   "./sn-mathphys-num.bst" 1786375403 64166 9adad5d5c1e00c8b866e91fad1a03aa0 ""
-  "sn-article.aux" 1786897971 20348 af044832f9a11dceceffbefffd3cf804 "pdflatex"
+  "sn-article.aux" 1786898251 20348 23f6ea5fa8a31e12358913bbd3fca7df "pdflatex"
   (generated)
   "sn-article.bbl"
   "sn-article.blg"
   (rewritten before read)
-["pdflatex"] 1786897961.62011 "d:/Thesis/Thesis Review Paper/sn-article.tex" "sn-article.pdf" "sn-article" 1786897972.77458 0
+["pdflatex"] 1786898237.6144 "d:/Thesis/Thesis Review Paper/sn-article.tex" "sn-article.pdf" "sn-article" 1786898252.08703 0
   "C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1786462204 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/DELL/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi602/tcrm1000.pk" 1786462217 11548 68eb8e28e39fc42826d83d236bd94623 ""
   "C:/Users/DELL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1786462066 13367120 ea83074bce4509a3f2e4903f18f1968d ""
@@ -130,17 +130,17 @@
   "D:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "D:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Pictures/Figure 1.png" 1786375402 294964 5911ecf8b7d422e63489bf8a44a5c0ba ""
+  "Pictures/Figure 1.png" 1786894400 92563 36c1a7e80e89996882a2f1b53e41af47 ""
   "Pictures/Figure 2.png" 1786375403 4973966 e7f39c992a0744770a640550010c9563 ""
-  "Pictures/Figure 3.png" 1786375402 963368 3ef5f3402e8f5d8e2f18e1c34c4b2fe1 ""
+  "Pictures/Figure 3.png" 1786896398 275821 f8d29b2edbab0d1b555a79e668ace66f ""
   "Pictures/Figure 4.png" 1786375402 159735 a90d633c2e3a030a72184ec9477d03d1 ""
   "Pictures/Figure 5.png" 1786375402 103240 28190253ce3db292c8d53a12efbb113e ""
-  "Pictures/Figure 6.png" 1786375402 1197685 a3086316ad6797eb20849f20877599d9 ""
-  "d:/Thesis/Thesis Review Paper/sn-article.tex" 1786897803 62873 e314c70572715b9927c9fa5546f9b6fe ""
-  "sn-article.aux" 1786897971 20348 af044832f9a11dceceffbefffd3cf804 "pdflatex"
-  "sn-article.bbl" 1786897961 31694 8662e60e542679a5150150d929507103 "bibtex sn-article"
-  "sn-article.out" 1786897971 9591 c09be54b701f4bb5ac8e6e13a89bc4f8 "pdflatex"
-  "sn-article.tex" 1786897803 62873 e314c70572715b9927c9fa5546f9b6fe ""
+  "Pictures/Figure 6.png" 1786897237 137212 e2152619cd5ef588f2af24231a573b98 ""
+  "d:/Thesis/Thesis Review Paper/sn-article.tex" 1786898222 62875 78999eb7111d0a6bf08fd2c885feccc4 ""
+  "sn-article.aux" 1786898251 20348 23f6ea5fa8a31e12358913bbd3fca7df "pdflatex"
+  "sn-article.bbl" 1786898237 31694 8662e60e542679a5150150d929507103 "bibtex sn-article"
+  "sn-article.out" 1786898251 9591 c09be54b701f4bb5ac8e6e13a89bc4f8 "pdflatex"
+  "sn-article.tex" 1786898222 62875 78999eb7111d0a6bf08fd2c885feccc4 ""
   "sn-jnl.cls" 1786375403 55857 7d4515312123fd1744517a7415d792ff ""
   (generated)
   "sn-article.aux"

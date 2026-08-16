@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.11)  16 AUG 2026 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.11)  16 AUG 2026 22:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,23 +670,23 @@ Package hyperref Info: Link coloring ON on input line 14.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 41.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
  (D:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
  (D:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 41.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 42.
 
-Underfull \hbox (badness 4492) in paragraph at lines 41--41
+Underfull \hbox (badness 4492) in paragraph at lines 42--42
  \OT1/cmr/m/n/9.03374 specific low-level fin-ger-prints|such as pixel, noise, or fre-quency arti- 
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 41--41
+Underfull \hbox (badness 1308) in paragraph at lines 42--42
  \OT1/cmr/m/n/9.03374 facts|exhibit severe gen-er-al-iza-tion fail-ures when eval-u-ated on pre-vi-ously 
  []
 
@@ -699,8 +699,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1
 
 {C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 41.
-LaTeX Font Info:    Calculating math sizes for size <> on input line 41.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 42.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 42.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -708,114 +708,113 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-<Pictures/Figure 1.png, id=168, 770.88pt x 248.72925pt>
+<Pictures/Figure 1.png, id=168, 1369.115pt x 566.115pt>
 File: Pictures/Figure 1.png Graphic file (type png)
 <use Pictures/Figure 1.png>
-Package pdftex.def Info: Pictures/Figure 1.png  used on input line 54.
-(pdftex.def)             Requested size: 372.0pt x 120.02629pt.
+Package pdftex.def Info: Pictures/Figure 1.png  used on input line 55.
+(pdftex.def)             Requested size: 372.0pt x 153.81194pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <./Pictures/Figure 1.png>]
+ [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
+ [4 <./Pictures/Figure 1.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-<Pictures/Figure 2.png, id=196, 2489.3pt x 1734.48pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+<Pictures/Figure 2.png, id=203, 2489.3pt x 1734.48pt>
 File: Pictures/Figure 2.png Graphic file (type png)
 <use Pictures/Figure 2.png>
-Package pdftex.def Info: Pictures/Figure 2.png  used on input line 106.
+Package pdftex.def Info: Pictures/Figure 2.png  used on input line 107.
 (pdftex.def)             Requested size: 372.0pt x 259.18153pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
-<Pictures/Figure 3.png, id=209, 1589.94pt x 674.52pt>
+ [7 <./Pictures/Figure 2.png>]
+<Pictures/Figure 3.png, id=217, 1915.155pt x 1003.75pt>
 File: Pictures/Figure 3.png Graphic file (type png)
 <use Pictures/Figure 3.png>
-Package pdftex.def Info: Pictures/Figure 3.png  used on input line 117.
-(pdftex.def)             Requested size: 372.0pt x 157.81233pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7 <./Pictures/Figure 2.png>]
-<Pictures/Figure 4.png, id=219, 1606.0pt x 963.6pt>
+Package pdftex.def Info: Pictures/Figure 3.png  used on input line 118.
+(pdftex.def)             Requested size: 372.0pt x 194.957pt.
+<Pictures/Figure 4.png, id=218, 1606.0pt x 963.6pt>
 File: Pictures/Figure 4.png Graphic file (type png)
 <use Pictures/Figure 4.png>
-Package pdftex.def Info: Pictures/Figure 4.png  used on input line 149.
+Package pdftex.def Info: Pictures/Figure 4.png  used on input line 150.
 (pdftex.def)             Requested size: 372.0pt x 223.1966pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./Pictures/Figure 3.png>]
-Underfull \hbox (badness 1248) in paragraph at lines 180--180
+Underfull \hbox (badness 1248) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 u-a-tion beyond small datasets and heavy
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 180--180
+Underfull \hbox (badness 5446) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 upscal-ing while man-ag-ing the trade-off
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 180--180
+Underfull \hbox (badness 3428) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 tion, multi-domain atten-tion maps, and
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 180--180
+Underfull \hbox (badness 1430) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 fre-quency fea-tures often remain spa-tially
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 180--180
+Underfull \hbox (badness 1454) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/7 Feature-space restora-tion using a fea-ture
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 180--180
+Underfull \hbox (badness 1796) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/7 No ded-i-cated lim-i-ta-tions section. Oper-a-
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 180--180
+Underfull \hbox (badness 1596) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 Crop-ping instead of resiz-ing to pre-serve
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 180--180
+Underfull \hbox (badness 1377) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/7 Compares three pre-trained CNN mod-els:
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 180--180
+Underfull \hbox (badness 1769) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 VGG16, VGG19, and ResNet50. It uses
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 180--180
+Underfull \hbox (badness 1152) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/7 Proposes Wavelet-CLIP. It uses a frozen
  []
 
 
-Underfull \hbox (badness 4454) in paragraph at lines 180--180
+Underfull \hbox (badness 4454) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/7 Shuffling patches destroys global image
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 180--180
+Underfull \hbox (badness 1430) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 struc-ture and impor-tant spa-tial rela-tion-
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 180--180
+Underfull \hbox (badness 2689) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 ships. There-fore, the method may miss
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 180--180
+Underfull \hbox (badness 2103) in paragraph at lines 181--181
 \OT1/cmr/m/n/7 former (DeiT), and Con-vNeXt along-side
  []
 
@@ -826,22 +825,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \hbox (badness 2495) in paragraph at lines 203--203
+Underfull \hbox (badness 2495) in paragraph at lines 204--204
 \OT1/cmr/m/n/7 learn-ing, con-di-tional decod-ing, and con-
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 203--203
+Underfull \hbox (badness 1052) in paragraph at lines 204--204
 []|\OT1/cmr/m/n/7 Says gen-er-al-iza-tion to new forgery types
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 \OT1/cmr/m/n/7 specific pat-terns is still insuf-fi-ciently
  []
 
 
-Underfull \hbox (badness 6961) in paragraph at lines 203--203
+Underfull \hbox (badness 6961) in paragraph at lines 204--204
 \OT1/cmr/m/n/7 tuning. It changes the detec-tion task
  []
 
@@ -849,37 +848,37 @@ Underfull \hbox (badness 6961) in paragraph at lines 203--203
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Underfull \hbox (badness 1412) in paragraph at lines 221--221
+Underfull \hbox (badness 1412) in paragraph at lines 222--222
 \OT1/cmr/m/n/7 if spliced images share iden-ti-cal light-ing
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 243--243
+Underfull \hbox (badness 2050) in paragraph at lines 244--244
 []|\OT1/cmr/m/n/7 Three-stage Holmes Pipeline with visual
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 243--243
+Underfull \hbox (badness 1137) in paragraph at lines 244--244
 \OT1/cmr/m/n/7 head dur-ing the infer-ence phase. On an
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 243--243
+Underfull \hbox (badness 2205) in paragraph at lines 244--244
 \OT1/cmr/m/n/7 by the nar-row range of facial con-cepts
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 243--243
+Underfull \hbox (badness 3375) in paragraph at lines 244--244
 []|\OT1/cmr/m/n/7 Prompting and fea-ture extrac-tion using
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 243--243
+Underfull \hbox (badness 2409) in paragraph at lines 244--244
 \OT1/cmr/m/n/7 sig-nif-i-cant com-pu-ta-tional over-head, mak-
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 243--243
+Underfull \hbox (badness 3068) in paragraph at lines 244--244
 []|\OT1/cmr/m/n/7 Analyzing noise pat-terns and struc-tural
  []
 
@@ -887,72 +886,72 @@ Underfull \hbox (badness 3068) in paragraph at lines 243--243
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-Underfull \hbox (badness 3449) in paragraph at lines 272--272
+Underfull \hbox (badness 3449) in paragraph at lines 273--273
 \OT1/cmr/m/n/7 Net and Multi-Head Relative-Interaction
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 272--272
+Underfull \hbox (badness 1005) in paragraph at lines 273--273
 \OT1/cmr/m/n/7 using mul-ti-ple deep-fake datasets. It uses
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 272--272
+Underfull \hbox (badness 3884) in paragraph at lines 273--273
 \OT1/cmr/m/n/7 Vision Trans-former. It adds lightweight
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 272--272
+Underfull \hbox (badness 6792) in paragraph at lines 273--273
 []|\OT1/cmr/m/n/7 Deep Infor-ma-tion Decom-po-si-tion (DID)
  []
 
 
-Underfull \hbox (badness 5359) in paragraph at lines 272--272
+Underfull \hbox (badness 5359) in paragraph at lines 273--273
 \OT1/cmr/m/n/7 frame-work that for-mu-lates cross-dataset
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 272--272
+Underfull \hbox (badness 1048) in paragraph at lines 273--273
 []|\OT1/cmr/m/n/7 All hyper-pa-ram-e-ters in the loss func-tion
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 272--272
+Underfull \hbox (badness 1596) in paragraph at lines 273--273
 \OT1/cmr/m/n/7 require man-ual tun-ing through exten-sive
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 272--272
+Underfull \hbox (badness 1087) in paragraph at lines 273--273
 []|\OT1/cmr/m/n/7 The LGMamba net-work, which par-al-lelly
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 272--272
+Underfull \hbox (badness 6978) in paragraph at lines 273--273
 []|\OT1/cmr/m/n/7 Fails to model tem-po-ral depen-den-cies.
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 272--272
+Underfull \hbox (badness 3872) in paragraph at lines 273--273
 []|\OT1/cmr/m/n/7 The Dynamic Spatial-Temporal Net-work
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 272--272
+Underfull \hbox (badness 2680) in paragraph at lines 273--273
 []|\OT1/cmr/m/n/7 The dynamic atten-tion mech-a-nisms and
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 272--272
+Underfull \hbox (badness 1924) in paragraph at lines 273--273
 \OT1/cmr/m/n/7 multi-scale tem-po-ral aggre-ga-tion increase
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \OT1/cmr/m/n/7 vo-lu-tional Neu-ral Net-work for binary
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 272--272
+Underfull \hbox (badness 1902) in paragraph at lines 273--273
 []|\OT1/cmr/m/n/7 Pure CNNs strug-gle heav-ily with cross-
  []
 
@@ -963,77 +962,77 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-Underfull \hbox (badness 10000) in paragraph at lines 295--295
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
 []|\OT1/cmr/m/n/7 Inception-ResNet-v2 with pre-pro-cess-ing,
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 295--295
+Underfull \hbox (badness 2698) in paragraph at lines 296--296
 []|\OT1/cmr/m/n/7 The remain-ing need is field-wide adop-
  []
 
 
-Underfull \hbox (badness 2359) in paragraph at lines 295--295
+Underfull \hbox (badness 2359) in paragraph at lines 296--296
 []|\OT1/cmr/m/n/7 Static datasets, no mat-ter how diverse,
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 295--295
+Underfull \hbox (badness 1178) in paragraph at lines 296--296
 []|\OT1/cmr/m/n/7 Focuses purely on bench-mark-ing exist-ing
  []
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 295--295
+Underfull \hbox (badness 3525) in paragraph at lines 296--296
 []|\OT1/cmr/m/n/7 Specifically bounded to 2024 gen-er-a-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--295
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
 \OT1/cmr/m/n/7 capa-bil-i-ties, requir-ing con-stant future
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 295--295
+Underfull \hbox (badness 2343) in paragraph at lines 296--296
 \OT1/cmr/m/n/7 highly chal-leng-ing, com-plex, and uncon-
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 295--295
+Underfull \hbox (badness 1783) in paragraph at lines 296--296
 []|\OT1/cmr/m/n/7 Like many large datasets, it lacks fine-
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 295--295
+Underfull \hbox (badness 2726) in paragraph at lines 296--296
 []|\OT1/cmr/m/n/7 Requires immense con-stant main-te-nance,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \OT1/cmr/m/n/7 HSIC-based col-lab-o-ra-tive learn-ing and
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 318--318
+Underfull \hbox (badness 6063) in paragraph at lines 319--319
 []|\OT1/cmr/m/n/7 Low-quality and mixed-quality deep-fake
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 318--318
+Underfull \hbox (badness 1997) in paragraph at lines 319--319
 []|\OT1/cmr/m/n/7 Evaluates eight deep-fake detec-tors using
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 318--318
+Underfull \hbox (badness 2126) in paragraph at lines 319--319
 []|\OT1/cmr/m/n/7 Mainly uses cus-tomized Sta-ble Dif-fu-sion
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 318--318
+Underfull \hbox (badness 1509) in paragraph at lines 319--319
 \OT1/cmr/m/n/7 pre-trained con-vo-lu-tional neu-ral net-works
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []|\OT1/cmr/m/n/7 Fairness-aware reg-u-lar-iza-tion tech-niques
  []
 
@@ -1041,17 +1040,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 318--318
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
-Underfull \hbox (badness 3354) in paragraph at lines 337--337
+Underfull \hbox (badness 3354) in paragraph at lines 338--338
 []|\OT1/cmr/m/n/7 Audio-visual tem-po-ral fea-ture extrac-tion
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 337--337
+Underfull \hbox (badness 2142) in paragraph at lines 338--338
 []|\OT1/cmr/m/n/7 Explicitly pro-poses future work on new
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 337--337
+Underfull \hbox (badness 2635) in paragraph at lines 338--338
 []|\OT1/cmr/m/n/7 Requires pro-cess-ing mul-ti-ple dense data
  []
 
@@ -1059,12 +1058,12 @@ Underfull \hbox (badness 2635) in paragraph at lines 337--337
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-Underfull \hbox (badness 2065) in paragraph at lines 356--356
+Underfull \hbox (badness 2065) in paragraph at lines 357--357
 []|\OT1/cmr/m/n/7 Diffusion-based DFF dataset with cross-
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 356--356
+Underfull \hbox (badness 2503) in paragraph at lines 357--357
 \OT1/cmr/m/n/7 generator and degraded-image eval-u-a-tion
  []
 
@@ -1078,7 +1077,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Pictures/Figure 5.png, id=600, 1606.0pt x 1215.54124pt>
 File: Pictures/Figure 5.png Graphic file (type png)
 <use Pictures/Figure 5.png>
-Package pdftex.def Info: Pictures/Figure 5.png  used on input line 391.
+Package pdftex.def Info: Pictures/Figure 5.png  used on input line 392.
 (pdftex.def)             Requested size: 372.0pt x 281.5532pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1090,15 +1089,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20 <./Pictures/Figure 5.png>]
-<Pictures/Figure 6.png, id=615, 1656.1875pt x 642.4pt>
+<Pictures/Figure 6.png, id=615, 1481.535pt x 694.595pt>
 File: Pictures/Figure 6.png Graphic file (type png)
 <use Pictures/Figure 6.png>
-Package pdftex.def Info: Pictures/Figure 6.png  used on input line 411.
-(pdftex.def)             Requested size: 372.0pt x 144.28871pt.
+Package pdftex.def Info: Pictures/Figure 6.png  used on input line 412.
+(pdftex.def)             Requested size: 372.0pt x 174.40082pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21] (sn-article.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22 <./Pictures/Figure 6.png>]
@@ -1244,17 +1246,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--368
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--429
-[][]$\OT1/cmr/m/n/10 https : / / openaccess . thecvf . com / content / ICCV2023 / papers / Sun[]Contrastive[]
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
+Underfull \hbox (badness 10000) in paragraph at lines 421--429
+[][]$\OT1/cmr/m/n/10 https : / / openaccess . thecvf . com / content / ICCV2023 / papers / Sun[]Contrastive[]
+ []
+
+
 Underfull \hbox (badness 1019) in paragraph at lines 433--442
 []\OT1/cmr/m/n/10 Li, J., et al.: Dynamic Spatial-Temporal Incon-sis-tency Learn-ing for Gen-
  []
@@ -1311,17 +1313,17 @@ Underfull \hbox (badness 1845) in paragraph at lines 633--643
  []
 
 
-Underfull \hbox (badness 4341) in paragraph at lines 671--679
-\OT1/cmr/m/n/10 er-ated Image Detec-tion Datasets. Lec-ture Notes in Com-puter Sci-ence
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
+Underfull \hbox (badness 4341) in paragraph at lines 671--679
+\OT1/cmr/m/n/10 er-ated Image Detec-tion Datasets. Lec-ture Notes in Com-puter Sci-ence
+ []
+
+
 Underfull \hbox (badness 4686) in paragraph at lines 720--729
 \OT1/cmr/m/n/10 (2023). Avail-able: [][]$https : / / openaccess . thecvf . com / content / ICCV2023 / papers /
  []
@@ -1332,17 +1334,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 720--729
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 811--820
-[]\OT1/cmr/m/n/10 Bhattacharyya, C., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Dif-fu-sion Deep-fake. In: 2024 IEEE Inter-na-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
+Underfull \hbox (badness 3219) in paragraph at lines 811--820
+[]\OT1/cmr/m/n/10 Bhattacharyya, C., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Dif-fu-sion Deep-fake. In: 2024 IEEE Inter-na-
+ []
+
+
 Underfull \hbox (badness 1648) in paragraph at lines 824--833
 []\OT1/cmr/m/n/10 Ricker, J., \OT1/cmr/m/it/10.03749 et al.\OT1/cmr/m/n/10 : Towards the Detec-tion of Dif-fu-sion Model Deep-fakes.
  []
@@ -1390,9 +1392,9 @@ Here is how much of TeX's memory you used:
  43071 multiletter control sequences out of 15000+600000
  652578 words of font info for 134 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 89i,12n,93p,2009b,736s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,93p,2009b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\DELL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\tcrm1000.pk><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on sn-article.pdf (29 pages, 5564683 bytes).
+Output written on sn-article.pdf (29 pages, 4103817 bytes).
 PDF statistics:
  870 PDF objects out of 1000 (max. 8388607)
  162 named destinations out of 1000 (max. 500000)
